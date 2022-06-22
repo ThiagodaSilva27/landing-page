@@ -15,6 +15,12 @@
 - quando se digita mais de 8 números no campo cep, mostra-se uma mensagem
 - realiza validação de cep, caso seja inválido será mostrado uma mensagem
 
+### Deploy Netlify
+ - [LandingPage](https://bright-speculoos-a03396.netlify.app/)
+
+### Performace:
+<img src="https://user-images.githubusercontent.com/58118544/174954092-a81e1705-b5dc-40ea-abbf-8ababcaff0d8.png"/>
+
 ### Tecnologias:
 - <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=React"/>
 - <img src="https://img.shields.io/static/v1?label=axios&message=Request&color=blueviolet&style=for-the-badge&logo=AXIOS"/>
