@@ -19,6 +19,7 @@
  - [LandingPage](https://bright-speculoos-a03396.netlify.app/)
 
 ### Performace:
+  - [site_consultado](https://web.dev/measure/?gclid=Cj0KCQjw2MWVBhCQARIsAIjbwoOe6feywkirVoQ8ziUS4fU-q_daWibi9WrTDYmWxdLlMjlDZD1fOzIaAoE3EALw_wcB&url=https%3A%2F%2Fbright-speculoos-a03396.netlify.app%2F/)
 <img src="https://user-images.githubusercontent.com/58118544/174954092-a81e1705-b5dc-40ea-abbf-8ababcaff0d8.png"/>
 
 ### Tecnologias:
